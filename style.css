@@ -10,7 +10,7 @@
 .titulo-principal {
 	padding-left: 20px;
 	text-align: center;
-	color: #d0c8e4;
+	color: grey;
 }
 
 .titulo-centralizado {
@@ -23,6 +23,7 @@ p {
 
 #missao {
 	font-size: 20px
+	color: grey
 }
 
 em strong {
