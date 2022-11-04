@@ -9,20 +9,21 @@
 
 .titulo-principal {
 	padding-left: 20px;
-	font-size: large;
+	font-size: 60px;
 	text-align: center;
 	color: grey;
 	background: #000000;
 }
 
 .titulo-centralizado {
-	text-align: justify;
+	text-align: center;
 	color: grey;
 	
 }
 
 p {
-	text-align: center;
+	text-align: justify;
+	color: aliceblue;
 }
 
 #missao {
