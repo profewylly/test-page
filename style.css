@@ -4,11 +4,12 @@
 
 .principal{
 	background: #4b08e6;
-	padding: 30px;
+	padding: 20px;
 }
 
 .titulo-principal {
 	padding-left: 50px;
+	text-align: center;
 }
 
 .titulo-centralizado {
