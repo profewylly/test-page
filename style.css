@@ -9,14 +9,16 @@
 
 .titulo-principal {
 	padding-left: 20px;
+	font-size: large;
 	text-align: center;
 	color: grey;
 	background: #000000;
 }
 
 .titulo-centralizado {
-	text-align: center
-	color: grey
+	text-align: justify;
+	color: grey;
+	
 }
 
 p {
@@ -24,30 +26,8 @@ p {
 }
 
 #missao {
-	font-size: 20px
-	color: grey
+	font-size: 20px;
+	color: grey;
 }
 
-em strong {
-	color: #000000;
-}
 
-.itens {
-	font-style: italic
-}
-
-.beneficios {
-	background: #000000;
-	padding: 20px;
-}
-
-ul {
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
-}
-
-.imagembeneficios {
-	width: 50%;
-}
